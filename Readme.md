@@ -10,8 +10,8 @@ git pull: برای دریافت تمامی تغییراتی که در ریپوز
 branch: به معنای شاخه است ، که معمولا هر دولوپر یک برنچ خاص خود را دارد تا کار های هر شخص از بقیه جدا باشه با هم تداخل نداشته باشند. برنچ دیفالت همیشه master  می باشد
 
 3.
-![alt text](https://github.com/HosseinSadeghi-dev/OS5/3.png?raw=true)
+![alt text](https://github.com/HosseinSadeghi-dev/OS5/blob/master/3.png?raw=true)
 
 
 4.
-![alt text](https://github.com/HosseinSadeghi-dev/OS5/4.png?raw=true)
+![alt text](https://github.com/HosseinSadeghi-dev/OS5/blob/master/4.png?raw=true)
